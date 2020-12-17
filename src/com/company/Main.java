@@ -10,9 +10,8 @@ public class Main {
         Car c1 = new Car("Honda", "Civic", 2000);
         System.out.println(c1);
 
-        Dog dogOne = new Dog();
-        dogOne.name = "Spot";
-        dogOne.race = "Biggle";
-        dogOne.age = 156;
+        Dog dogOne = new Dog("Spot", "Biggle", 156);
+
+
     }
 }

@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("Yet another change... this program is so freakin' awesome!!!!");
 
+        Person p1 = new Person("Bob", 20, "NY");
+        System.out.println(p1);
     }
 }

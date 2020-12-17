@@ -9,13 +9,5 @@ public class Main {
 
         Car c1 = new Car("Honda", "Civic", 2002);
         System.out.println(c1);
-
-
-        Cat garfield = new Cat(true,"Garfield",10);
-        Cat filemon = new Cat(true,"Filemon",10);
-
-        System.out.println(garfield);
-        System.out.println(filemon);
-
     }
 }
